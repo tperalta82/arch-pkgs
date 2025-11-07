@@ -1,6 +1,6 @@
 # Personal Arch AUR
 
-This repository tracks personal PKGBUILDs that are either not available in the official Arch User Repository or diverge from the upstream packages I maintain there. Each directory contains everything needed to build and install the package with the standard Arch packaging toolchain.
+This repository tracks personal PKGBUILDs that are either not available in the official Arch User Repository or diverge from the upstream packages. Each directory contains everything needed to build and install the package with the standard Arch packaging toolchain.
 
 ## Packages
 
